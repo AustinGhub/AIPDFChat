@@ -16,7 +16,7 @@ from llama_index import GPTVectorStoreIndex, SimpleDirectoryReader,download_load
 
 # from gpt_index import GPTFaissIndex, SimpleDirectoryReader
 
-# openai.api_key = "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"
+# openai.api_key = 
 
 # def getpdf_text(files):
 #     text = ""
